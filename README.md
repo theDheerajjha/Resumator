@@ -1,2 +1,2 @@
 # Resumator
-A resume create app.
+A resume creater app.
